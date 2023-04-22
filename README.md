@@ -1,2 +1,2 @@
 # ROS2foxy-gazebo-project
-개인 프로젝트
+ROS2foxy-gazebo 개인 프로젝트
