@@ -1,2 +1,2 @@
-# ROS---gazebo-project
+# ROS2foxy-gazebo-project
 개인 프로젝트
